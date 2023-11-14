@@ -1,0 +1,155 @@
+.bodyMain {
+        font-family: 'Montserrat', sans-serif;
+        width: 100%;
+}
+
+.container-fluid {
+        .divFondo {
+                width: 100%;
+                height: 666px;
+                background-image: url(/images/fondoIndex.jpeg);
+                background-repeat: no-repeat;
+                background-position-x: center;
+                background-position-y: top;   
+        } 
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+}
+
+
+.div2 { 
+                .texto_izq{
+                        h2 {
+                                font-family: 'Syne', sans-serif;
+                                text-align: center;
+                        }
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                padding-top: 6rem;
+                }
+                .texto_der{
+                justify-content: center;
+                align-items: center;
+                text-align: justify;
+                padding-right: 10rem;
+                font-size: 25px;
+                padding-top: 2rem;
+                }
+                padding-top: 3rem;
+                padding-bottom: 3rem;
+                background-color: white;
+}
+
+.servicios {
+        .cards {
+                .card {
+                        .card-img-top {
+                                width: 50%;
+                        }
+                        .card-title {
+                                text-align: center;
+                                }
+                                .card-text {
+                                text-align: center;           
+                                }
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        border-color: #B1FBCB;
+                }
+                display: flex;
+                width: 75%;
+                justify-content: center;
+                align-items: center;
+                margin: 0 auto;
+        }
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 4rem;
+        padding-top: 3rem;
+        background-color: whitesmoke;
+}
+
+.div4 {
+        .row {
+                .textoSocios {
+                        h2 {
+                                font-family: 'Syne', sans-serif;
+                                text-align: center;
+                        }
+                        text-align: justify;
+                }
+                .divLogos {
+                        .divLogosSuperior{ 
+                                a {
+                                        img {
+                                                width: 100%;
+                                                height: auto;   
+                                                padding: 8px;
+                                                &:hover {
+                                                        width: 105%;
+                                                        height: 105%;
+                                                }  
+                                        }
+                                        width: 100%;
+                                        height: auto;
+                                }
+                                display: flex;
+                                margin: 0 auto;
+                                justify-content: center;
+                                align-items: center;
+                        }
+
+                }
+                width: 75%;
+                margin: 0 auto;
+                display: flex;
+                display: flex;
+                margin: 0 auto;
+                justify-content: center;
+                align-items: center;
+        }
+        background-color: white;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        display: flex;
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+}
+
+.div3 {
+        .contacto {
+                h3 { 
+                text-align: center;
+                padding-bottom: 2rem;
+                }
+                .form1 {
+                        display: flex;
+                }
+                .btn {
+                        margin: 0 auto;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        border-color: #00BCF2;
+                        background-color: #00BCF2;
+                }
+                width: 60%;
+                justify-content: center;
+                align-items: center;
+                padding-top: 3rem;
+                padding-bottom: 3rem;
+                margin: 0 auto;
+        }
+        background-color: whitesmoke;
+}
+
+
+
+
+

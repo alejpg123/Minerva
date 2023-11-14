@@ -1,0 +1,22 @@
+.navbar-expand-lg {
+    padding: 0;
+}
+
+.nav { 
+    .logo {
+        width: 60px;
+        height: 60px;
+        margin-left: 10rem;
+    }
+    .nav-link {
+        border-radius: 1px;
+        color: gray;
+        &:hover {
+            background-color: #C5EBF5;
+        }   
+    }
+    background-color: #E7E7E7;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif, bold;
+    font-size: 20px;
+}
