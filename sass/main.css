@@ -44,15 +44,16 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: white;
+  display: grid;
 }
 .div2 .texto_izq {
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding-top: 6rem;
+  place-items: center;
+  margin: auto;
 }
 .div2 .texto_izq h2 {
   font-family: "Syne", sans-serif;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 .div2 .texto_der {
