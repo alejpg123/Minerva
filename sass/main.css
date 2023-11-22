@@ -9,7 +9,7 @@
   font-size: 20px;
 }
 .nav .logo {
-  width: 60px;
+  width: 123px;
   height: 60px;
   margin-left: 10rem;
 }
@@ -177,6 +177,7 @@
   background-color: #2C313A;
 }
 .footer .footer1 {
+  padding-bottom: 2rem;
   display: flex;
   margin: 0 auto;
   width: 60%;
@@ -185,8 +186,8 @@
   border-bottom: 1px solid gray;
 }
 .footer .footer1 .logoDiv a img {
-  height: 100px;
-  width: 100px;
+  height: 60px;
+  width: 123px;
 }
 .footer .footer1 .textoFooter1 .contactanos {
   color: gray;
