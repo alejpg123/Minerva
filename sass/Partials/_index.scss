@@ -47,6 +47,9 @@
 @media (max-width: 1005px) {
         .texto1 {
                 .texto_der {
+                        p {
+                                padding-right: 5%;
+                        }
                         padding-right: 0rem;
                         text-align: center;
                 }

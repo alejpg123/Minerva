@@ -76,6 +76,9 @@
     padding-right: 0rem;
     text-align: center;
   }
+  .texto1 .texto_der p {
+    padding-right: 5%;
+  }
 }
 .servicios {
   margin: 0 auto;
