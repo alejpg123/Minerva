@@ -21,6 +21,11 @@
   background-color: #C5EBF5;
 }
 
+@media (max-width: 768px) {
+  .nav .logo {
+    margin-left: 2rem;
+  }
+}
 .bodyMain {
   font-family: "Montserrat", sans-serif;
   width: 100%;
@@ -63,8 +68,15 @@
   padding-right: 10rem;
   font-size: 25px;
   padding-top: 2rem;
+  display: grid;
 }
 
+@media (max-width: 1005px) {
+  .texto1 .texto_der {
+    padding-right: 0rem;
+    text-align: center;
+  }
+}
 .servicios {
   margin: 0 auto;
   display: flex;

@@ -36,11 +36,21 @@
                 padding-right: 10rem;
                 font-size: 25px;
                 padding-top: 2rem;
+                display: grid;
                 }
                 padding-top: 3rem;
                 padding-bottom: 3rem;
                 background-color: white;
                 display: grid;
+}
+
+@media (max-width: 1005px) {
+        .texto1 {
+                .texto_der {
+                        padding-right: 0rem;
+                        text-align: center;
+                }
+        }
 }
 
 .servicios {

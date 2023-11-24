@@ -20,3 +20,11 @@
     font-family: 'Montserrat', sans-serif, bold;
     font-size: 20px;
 }
+
+@media (max-width: 768px) {
+    .nav {
+        .logo {
+            margin-left: 2rem;
+        }
+    }
+}
