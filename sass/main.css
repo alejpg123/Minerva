@@ -9,7 +9,7 @@
   font-size: 20px;
 }
 .nav .logo {
-  width: 123px;
+  width: 200px;
   height: 60px;
   margin-left: 10rem;
 }
@@ -202,7 +202,7 @@
 }
 .footer .footer1 .logoDiv a img {
   height: 60px;
-  width: 123px;
+  width: 200px;
 }
 .footer .footer1 .textoFooter1 .contactanos {
   color: gray;
@@ -231,4 +231,6 @@
 .footer .footer2 .divFooter p {
   text-align: center;
   color: gray;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */
